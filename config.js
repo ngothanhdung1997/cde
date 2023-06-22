@@ -4,10 +4,9 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "Xin chào",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "Hong biết chúc gì hết"
-        "Chúc sinh nhật vui vẻ"
-        "Hẹn gặp lại ^^"
-    ,  // 同上...
+        "Hong biết chúc gì hết",
+        "Chúc sinh nhật vui vẻ",
+        "Hẹn gặp lại ^^",// 同上...
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
